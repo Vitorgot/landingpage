@@ -39,7 +39,7 @@ header {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 1.25em;
+    font-size: 1.5em;
     transition: 0.3s;
 }
 .menu-header a:hover:not(.botao) {
@@ -202,9 +202,8 @@ h1 {
     padding: 55px 55px;
 }
 .texto-endereco p {
-    width: 400px;
+    width: 100%;
     font-size: 20px;
-    background-color: #010010;
 }
 .container-mapa {
     position: relative;
